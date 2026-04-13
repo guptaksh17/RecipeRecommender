@@ -1,2 +1,2 @@
 # RecipeRecommender
-applke, banana, grapes
+apple, banana, grapes
